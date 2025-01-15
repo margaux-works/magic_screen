@@ -9,8 +9,6 @@ Magic Screen is a web-based implementation of the classic Etch A Sketch toy. Thi
 You can view the live project hosted on GitHub Pages here:
 [Magic Screen](https://margaux-works.github.io/magic-screen/)
 
-![Screenshot of main view](/screenshot-magic-screen.png)
-
 ---
 
 ## Features
@@ -23,11 +21,11 @@ You can view the live project hosted on GitHub Pages here:
 
 ## Screenshots
 
-_(Add screenshots of your app here after deployment)_
+![Screenshot of main view](/screenshot-magic-screen.png)
 
 ---
 
-c
+## Technology Stack
 
 - **HTML**: Markup structure for the page.
 - **CSS**: Inline styling for aesthetics and animations.
