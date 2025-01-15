@@ -122,8 +122,3 @@ This project is a practice exercise from the [JavaScript Course](https://beginne
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
-
-ChatGPT can make mistakes. Check important info.
-?
-
-Readme
