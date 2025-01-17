@@ -7,7 +7,7 @@ Magic Screen is a web-based implementation of the classic Etch A Sketch toy. Thi
 ## Live Demo
 
 You can view the live project hosted on GitHub Pages here:
-[Magic Screen](https://margaux-works.github.io/magic-screen/)
+[Magic Screen](https://margaux-works.github.io/magic_screen/)
 
 ---
 
